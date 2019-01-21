@@ -5,7 +5,7 @@ description: "Blog"
 baseurl: ""
 url: "http://bajwanischay.github.io/"
 title_description: "Finance | Tech | Business | Military | Politics"
-title_image: "/8.JPG"
+title_image: "/img1.JPG"
 google_analytics: "UA-89774547-1"
 disqus_account: nischay_singh
 github_repository: https://github.com/bajwanischay/bajwanischay.github.io
