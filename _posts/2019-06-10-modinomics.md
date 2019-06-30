@@ -1,16 +1,18 @@
 ---
 layout:     post
-title:      The Next Big Thing, Episode 2: Modinomics
-date:       2019-06-10 10:00:00
-summary:    The Indian Economy under the Modi regime 
-categories: Podcast
-thumbnail: jekyll
+title:      Carte Noire in Action
+date:       2014-06-10 12:31:19
+summary:    See what the different elements looks like.
+categories: jekyll
+thumbnail: cogs
 tags:
- - podcast
- - economics
- - politics
- - India
+ - demo
+ - action
+ - carte
+ - noire
 ---
+
+
 https://soundcloud.com/bajwanischay/episode-2-modinomics
 
 In this episode of The Next Big Thing we discuss the state of the Indian economy under the Narendra Modi led NDA government for the last 5 years.     
