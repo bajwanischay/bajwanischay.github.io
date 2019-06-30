@@ -5,8 +5,8 @@ date:       2019-06-10 10:00:00
 summary:    The Indian Economy under the Modi Regime
 categories: Podcast
 series:     The Next Big Thing
+thumbnail:  rupee-sign
 soundcloud-src: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633966780&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
-thumbnail: rupee-sign
 tags:
  - Economics
  - Politics
