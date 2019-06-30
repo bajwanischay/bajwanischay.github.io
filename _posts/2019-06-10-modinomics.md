@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Next Big Thing, Episode 2: Modinomics
-date:       2014-06-08 12:32:18
+date:       2019-06-10 10:00:00
 summary:    The Indian Economy under the Modi regime 
 categories: Podcast
 thumbnail: jekyll
