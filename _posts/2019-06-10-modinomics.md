@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Podcast- Modinomics
+title:      Modinomics
 date:       2019-06-10 10:00:00
 summary:    The Indian Economy under the Modi Regime
 categories: Podcast
