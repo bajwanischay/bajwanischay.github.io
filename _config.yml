@@ -5,7 +5,7 @@ description: "Blog"
 baseurl: ""
 url: "http://bajwanischay.github.io/"
 title_description: "Finance | Tech | Business | Military | Politics"
-title_image: "/img1.jpg"
+title_image: "/Chicago.jpg"
 google_analytics: "UA-89774547-1"
 disqus_account: nischay_singh
 github_repository: https://github.com/bajwanischay/bajwanischay.github.io
@@ -13,7 +13,7 @@ post_limit: 5
 
 # Social usernames/URLs
 github_username:  bajwanischay
-instagram_username: flashboybajwa
+instagram_username: bajwa.nischay
 linkedin_link: https://www.linkedin.com/in/nischay-singh
 soundcloud_profile: bajwanischay
 quora_profile: Nischay-Singh
