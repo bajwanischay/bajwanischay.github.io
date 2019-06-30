@@ -8,6 +8,7 @@ thumbnail: jekyll
 tags:
  - podcast
  - economics
+ - politics
  - India
 ---
 
